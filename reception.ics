@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Easy Invites//Wedding Sample//EN
+BEGIN:VEVENT
+UID:ira-vihaan-reception-20270222@easyinvites.in
+DTSTAMP:20261119T000000Z
+DTSTART:20270222T123000Z
+DTEND:20270222T153000Z
+SUMMARY:Ira and Vihaan - Sample wedding reception
+LOCATION:The Lotus Hall - Nungambakkam Chennai
+END:VEVENT
+END:VCALENDAR
